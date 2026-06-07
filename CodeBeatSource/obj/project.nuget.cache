@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVpDewUUwLY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TAK-RAYAN\\Desktop\\MusiCreator\\MusicCreate\\MusicCreate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TAK-RAYAN\\.nuget\\packages\\spectre.console\\0.56.0\\spectre.console.0.56.0.nupkg.sha512",
+    "C:\\Users\\TAK-RAYAN\\.nuget\\packages\\spectre.console.ansi\\0.56.0\\spectre.console.ansi.0.56.0.nupkg.sha512"
+  ],
+  "logs": []
+}

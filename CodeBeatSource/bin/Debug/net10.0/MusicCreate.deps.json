@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MusicCreate/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.56.0"
+        },
+        "runtime": {
+          "MusicCreate.dll": {}
+        }
+      },
+      "Spectre.Console/0.56.0": {
+        "dependencies": {
+          "Spectre.Console.Ansi": "0.56.0"
+        },
+        "runtime": {
+          "lib/net10.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.56.0.0"
+          }
+        }
+      },
+      "Spectre.Console.Ansi/0.56.0": {
+        "runtime": {
+          "lib/net10.0/Spectre.Console.Ansi.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.56.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicCreate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.56.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ail4U9yR02kKtaOQl0k/bMid/UkujehsYLa8DsYpsmioYkJYmHIWh5us5HTskP74yYcBLcmdTcxBUpNgg2EwZg==",
+      "path": "spectre.console/0.56.0",
+      "hashPath": "spectre.console.0.56.0.nupkg.sha512"
+    },
+    "Spectre.Console.Ansi/0.56.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AAvLsqrwOrKQQ2mKQ02VUN2s90C758ZlDHVjHZ1MfGgd7+vELPayS/j8nTppEAXd1+JHQQjpey/bMGjbmpMmNg==",
+      "path": "spectre.console.ansi/0.56.0",
+      "hashPath": "spectre.console.ansi.0.56.0.nupkg.sha512"
+    }
+  }
+}
