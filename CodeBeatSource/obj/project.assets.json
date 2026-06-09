@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TAK-RAYAN\\Desktop\\MusiCreator\\MusicCreate\\MusicCreate.csproj",
-      "projectName": "MusicCreate",
-      "projectPath": "C:\\Users\\TAK-RAYAN\\Desktop\\MusiCreator\\MusicCreate\\MusicCreate.csproj",
+      "projectUniqueName": "C:\\Users\\TAK-RAYAN\\Desktop\\CodeBeat\\CodeBeatSource\\CodeBeat.csproj",
+      "projectName": "CodeBeat",
+      "projectPath": "C:\\Users\\TAK-RAYAN\\Desktop\\CodeBeat\\CodeBeatSource\\CodeBeat.csproj",
       "packagesPath": "C:\\Users\\TAK-RAYAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TAK-RAYAN\\Desktop\\MusiCreator\\MusicCreate\\obj\\",
+      "outputPath": "C:\\Users\\TAK-RAYAN\\Desktop\\CodeBeat\\CodeBeatSource\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TAK-RAYAN\\AppData\\Roaming\\NuGet\\NuGet.Config"
