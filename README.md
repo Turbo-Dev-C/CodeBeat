@@ -1,3 +1,4 @@
+
 #Code Beat Version 1.0🎵
 
 ## Create Music With Code
@@ -14,3 +15,6 @@ This App Can Save And Run Melodys With txt Files
 
 ## Using Modern FrameWork
 This App Use The new And Modern FrameWorks In The Create  
+
+# CodeBeat
+A Console App For Create Music With Code👨‍💻🎶
